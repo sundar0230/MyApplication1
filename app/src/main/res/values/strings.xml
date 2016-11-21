@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application1</string>
+    <string name="from_date">From Date</string>
+    <string name="to_date">To Date</string>
+    <string name="item1">item1</string>
+    <string name="group_item1">group item1</string>
+    <string name="group_item2">group item2</string>
+    <string name="submenu">submenu</string>
+    <string name="submenu_item1">submenu item1</string>
+</resources>
